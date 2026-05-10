@@ -22,15 +22,15 @@ The dataset contains these target labels:
 
 ## Repository Structure
 
-- `/home/runner/work/EmoDetection/EmoDetection/Training/`
+- `Training/`
   - training CSV and embedding files
-- `/home/runner/work/EmoDetection/EmoDetection/Validating/`
+- `Validating/`
   - validation CSV and embedding files
-- `/home/runner/work/EmoDetection/EmoDetection/testing/`
+- `testing/`
   - testing CSV and embedding files
-- `/home/runner/work/EmoDetection/EmoDetection/NLP-Project-Module-2 (22-SE-21,65,08,102)/`
+- `NLP-Project-Module-2 (22-SE-21,65,08,102)/`
   - Module 2 work (data preprocessing + baseline models like LSTM/BERT in notebooks)
-- `/home/runner/work/EmoDetection/EmoDetection/NLP-Project-Module-3(22-SE-21,65,08,102)/`
+- `NLP-Project-Module-3(22-SE-21,65,08,102)/`
   - Module 3 work (LLM-oriented experimentation notebook and notes)
 
 ## Workflow Summary
